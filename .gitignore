@@ -1,0 +1,4 @@
+*.mp4
+*.mkv
+__pycache__/
+ssd_mobilenet_v2_coco_2018_03_29/
