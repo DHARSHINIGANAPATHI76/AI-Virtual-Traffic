@@ -17,9 +17,11 @@ A real-time object detection system that identifies vehicles in traffic footage 
 ### ✅ 1. Clone the Repository
 git clone https://github.com/DHARSHINIGANAPATHI76/AI-Virtual-Traffic.git
 cd AI-Virtual-Traffic
-✅ 2. Create & Activate Virtual Environment (Optional)
+
+###✅ 2. Create & Activate Virtual Environment (Optional)
 python -m venv venv
 venv\Scripts\activate    # For Windows
+
 ✅ 3. Install Dependencies
 If you have a requirements.txt file:
 pip install -r requirements.txt
